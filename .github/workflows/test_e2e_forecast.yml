@@ -1,0 +1,28 @@
+name: Test Forecast text
+on: [push]
+jobs:
+
+  bot:
+    name: bot sheduled forecast
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      
+      - name: Set up Python 3.10.9
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.10.9
+          
+      - name: Install pipenv
+        run: pip install pipenv
+        
+      - name: Run forecast for Illes Balears to test channel
+        run: |
+          pipenv install
+          pipenv run python src/main.py
+        env:
+          AEMET_API_KEY: ${{ secrets.AEMET_API_KEY }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MAR_FORECAST_COASTAL_CHAT_ID: -1001154352226
+          MAR_FORECAST_COASTAL_CODE: ILLES_BALEARS

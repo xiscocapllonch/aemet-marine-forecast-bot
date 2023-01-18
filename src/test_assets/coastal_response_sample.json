@@ -1,0 +1,139 @@
+[
+  {
+    "origen": {
+      "productor": "Agencia Estatal de Meteorología - AEMET - Gobierno de España",
+      "web": " http://www.aemet.es",
+      "language": "es",
+      "copyright": "© AEMET. Autorizado el uso de la información y su reproducción citando a AEMET como autora de la misma.",
+      "notaLegal": "http://www.aemet.es/es/nota_legal",
+      "elaborado": "2023-01-15T20:00:00",
+      "inicio": "2023-01-15T20:00:00",
+      "fin": "2023-01-16T20:00:00"
+    },
+    "aviso": {
+      "inicio": "2023-01-15T20:00:00",
+      "fin": "2023-01-16T20:00:00",
+      "texto": "SW 7 y olas de 3 a 4 m a partir de la mañana (la situación empeorará el martes).",
+      "id": "A807",
+      "nombre": "Avisos para Illes Balears"
+    },
+    "situacion": {
+      "analisis": "2023-01-15T12:00:00",
+      "inicio": "2023-01-15T20:00:00",
+      "fin": "2023-01-16T20:00:00",
+      "texto": "Baja de 1012 en Liguria, profundizándose hasta 996 y extendiéndose al Mediterráneo occidental. Altas presiones de 1030 en el oeste de la península Ibérica, desplazándose hacia el suroeste. Alta de 1026 en el norte de Argelia, debilitándose.",
+      "id": "S807",
+      "nombre": "Situación General Illes Balears"
+    },
+    "prediccion": {
+      "inicio": "2023-01-15T20:00:00",
+      "fin": "2023-01-16T20:00:00",
+      "zona": [
+        {
+          "subzona": [
+            {
+              "texto": "N 2 a 5 arreciando a W y SW 6 a 7 por la mañana. Rachas. Marejadilla con mar de fondo del N de 1 a 2 m aumentando a gruesa. Lluvia ocasional por la noche.",
+              "id": 8040731,
+              "nombre": "Norte de Menorca"
+            },
+            {
+              "texto": "N 2 a 5 arreciando a W y SW 6 a 7 por la mañana. Rachas. Marejadilla con mar de fondo del SW de 1 m pero del N de 1 a 2 m en los extremos, aumentando a fuerte marejada o gruesa. Lluvia ocasional por la noche.",
+              "id": 8040732,
+              "nombre": "Sur de Menorca"
+            }
+          ],
+          "id": 8040730,
+          "nombre": "Aguas costeras de Menorca"
+        },
+        {
+          "subzona": [
+            {
+              "texto": "N 2 a 4  arreciando a W y SW 6 ocasionalmente 7 por la mañana. Rachas. Marejadilla con mar de fondo del N de 1 a 2 m aumentando a fuerte marejada o gruesa. Lluvia ocasional por la noche.",
+              "id": 8040740,
+              "nombre": "Canal de Menorca"
+            }
+          ],
+          "id": 8040740,
+          "nombre": "Canal de Menorca"
+        },
+        {
+          "subzona": [
+            {
+              "texto": "Componente W 4 arreciando a W y SW 6 a 7 por la mañana. Rachas. Marejada con mar de fondo del N de 1 a 2 m aumentando a gruesa. Aguaceros por la noche, más probables en el norte.",
+              "id": 8040711,
+              "nombre": "Noroeste de Mallorca (de Dragonera a Formentor)"
+            },
+            {
+              "texto": "Componente N 2 a 4 arreciando a SW 5 a 7 por la mañana. Rachas. Marejadilla con mar de fondo del N de 1 a 2 m aumentando a fuerte marejada. Aguaceros por la noche.",
+              "id": 8040712,
+              "nombre": "Nordeste de Mallorca (de Formentor a Capdepera)"
+            },
+            {
+              "texto": "Componente N 3 a 4 arreciando a SW 6 a 7 por la mañana. Rachas. Marejadilla con mar de fondo del SW de 1 m girando a N, aumentando a gruesa. Aguaceros por la noche, más probables en el norte.",
+              "id": 8040713,
+              "nombre": "Este de Mallorca (de Capdepera a Salinas)"
+            },
+            {
+              "texto": "W y NW 4 a 6 arreciando a W y SW 6 a 7 por la mañana. Rachas. Marejada o fuerte marejada aumentando a gruesa.",
+              "id": 8040714,
+              "nombre": "Sur de Mallorca (de Salinas a Dragonera)"
+            }
+          ],
+          "id": 8040710,
+          "nombre": "Aguas costeras de Mallorca"
+        },
+        {
+          "subzona": [
+            {
+              "texto": "W y NW 4 a 6 arreciando a W y SW 6 a 7 por la mañana. Rachas. Marejada o fuerte marejada aumentando a gruesa.",
+              "id": 8040760,
+              "nombre": "Aguas costeras de Cabrera"
+            }
+          ],
+          "id": 8040760,
+          "nombre": "Aguas costeras de Cabrera"
+        },
+        {
+          "subzona": [
+            {
+              "texto": "W y NW 4 a 6 arreciando a W y SW 7 por la mañana. Rachas. Marejada o fuerte marejada aumentando a gruesa.",
+              "id": 8040720,
+              "nombre": "Canal de Mallorca"
+            }
+          ],
+          "id": 8040720,
+          "nombre": "Canal de Mallorca"
+        },
+        {
+          "subzona": [
+            {
+              "texto": "N 3 a 4 arreciando a W y SW 6 a 7 por la mañana. Rachas. Marejadilla con mar de fondo del SW de 1 m girando pronto a N, aumentando a gruesa.",
+              "id": 8040770,
+              "nombre": "Aguas costeras de Ibiza"
+            }
+          ],
+          "id": 8040770,
+          "nombre": "Aguas costeras de Ibiza"
+        },
+        {
+          "subzona": [
+            {
+              "texto": "N 3 a 4 arreciando a W y SW 6 a 7 por la mañana. Rachas. Marejadilla con mar de fondo del SW de 1 m aumentando a gruesa.",
+              "id": 8040780,
+              "nombre": "Aguas costeras de Formentera"
+            }
+          ],
+          "id": 8040780,
+          "nombre": "Aguas costeras de Formentera"
+        }
+      ]
+    },
+    "tendencia": {
+      "inicio": "2023-01-16T20:00:00",
+      "fin": "2023-01-17T20:00:00",
+      "texto": "Se esperan condiciones de aviso en: Aguas costeras de Cabrera, Aguas costeras de Formentera, Aguas costeras de Ibiza, Aguas costeras de Mallorca, Aguas costeras de Menorca, Canal de Mallorca, Canal de Menorca"
+    },
+    "id": "FQXX44",
+    "nombre": "Boletí­n meteorológico y marino para las zonas costeras de la Comunidad Autónoma de Illes Balears"
+  }
+]
